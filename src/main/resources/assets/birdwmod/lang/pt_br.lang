@@ -1,0 +1,51 @@
+entity.rednecked_nightjar.name=Noitibó-de-Nuca-Vermelha
+entity.eurasian_bullfinch.name=Dom-Fafe
+entity.redflanked_bluetail.name=Pisco-de-Flanco-Ruivo
+entity.stellers_eider.name=Êider-de-Steller
+
+entity.eastern_bluebird.name=Pássaro-Azul-Oriental
+entity.killdeer.name=Borrelho-de-Coleira-Dupla
+entity.northern_mockingbird.name=Tordo-Imitador
+entity.green_heron.name=Socó-Mirim
+
+entity.hoatzin.name=Cigana
+entity.turquoisebrowed_motmot.name=Udu-de-Sobrancelha-Turquesa
+entity.kingofsaxony_bird_of_paradise.name=Ave-do-Paraíso-de-Alberto
+
+item.binocular_basic.name=Binóculos Básico
+item.binocular_medium.name=Binóculos Médio
+item.binocular_pro.name=Binóculos Profissional
+item.bird_guide.name=Guia de Aves
+
+item.feather_easternbluebirdmale.name=Pena de Pássaro-Azul-Oriental Macho
+item.feather_easternbluebirdfemale.name=Pena de Pássaro-Azul-Oriental Fêmea
+item.feather_eurasianbullfinchmale.name=Pena de Dom-Fafe Macho
+item.feather_eurasianbullfinchfemale.name=Pena de Dom-Fafe Fêmea
+item.feather_greenheron.name=Pena de Socó-Mirim
+item.feather_killdeer.name=Pena de Borrelho-de-Coleira-Dupla
+item.feather_northernmockingbird.name=Pena de Tordo-Imitador
+item.feather_redflanckedbluetailmale.name=Pena de Pisco-de-Flanco-Ruivo Macho
+item.feather_redflanckedbluetailfemale.name=Pena de Pisco-de-Flanco-Ruivo Fêmea
+item.feather_redneckednightjar.name=Pena de Noitibó-de-Nuca-Vermelha
+item.feather_stellerseidermale.name=Pena de Êider-de-Steller Macho
+item.feather_stellerseiderfemale.name=Pena de Êider-de-Steller Fêmea
+item.feather_kingofsaxonymale.name=Pena de Ave-do-Paraíso-de-Alberto Macho
+item.feather_kingofsaxonyfemale.name=Pena de Ave-do-Paraíso-de-Alberto Fêmea
+item.feather_motmot.name=Pena de Udu-de-Sobrancelha-Turquesa
+item.feather_hoatzin.name=Pena de Cigana
+
+item.meatraw_duck.name=Carne de Pato Crua
+item.meatraw_heron.name=Carne de Garça Crua
+item.meatraw_nightjar.name=Carne de Noitibó Crua
+item.meatraw_passerine.name=Carne de Passeriforme Crua
+item.meatraw_wader.name=Carne de Limícola Crua
+
+item.meatcooked_duck.name=Carne de Pato Cozida
+item.meatcooked_heron.name=Carne de Garça Cozida
+item.meatcooked_nightjar.name=Carne de Noitibó Cozida
+item.meatcooked_passerine.name=Carne de Passeriforme Cozida
+item.meatcooked_wader.name=Carne de Limícola Cozida
+
+tile.birdfeeder.name=Alimentador de Aves
+
+itemGroup.birdwatchingmodtab=The Birdwatching Mod
